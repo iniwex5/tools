@@ -117,6 +117,8 @@ DOMAIN-SUFFIX, altery.com
 DOMAIN-SUFFIX, fpjs.io
 DOMAIN-SUFFIX, clarity.ms
 DOMAIN-SUFFIX, app-analytics-services.com
+#sumup
+DOMAIN-SUFFIX, sumup.com
 # 兜底
 DOMAIN-SUFFIX, co.uk
 
