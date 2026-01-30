@@ -14,7 +14,7 @@ IP-CIDR, 46.68.0.0/17
 # Giffgaff
 IP-CIDR, 87.194.0.0/16
 # CTE
-DOMAIN-SUFFIX, ee.co.uk
+DOMAIN-SUFFIX, ct.ee.co.uk
 IP-CIDR, 31.94.0.0/16
 
 
