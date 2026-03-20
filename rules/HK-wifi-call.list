@@ -2,3 +2,4 @@ DOMAIN-KEYWORD, mcc454
 DOMAIN, csl.prod.ondemandconnectivity.com
 DOMAIN, hhk.prod.ondemandconnectivity.com
 DOMAIN, snr.prod.ondemandconnectivity.com
+IP-CIDR, 107.178.224.0/19,no-resolve
