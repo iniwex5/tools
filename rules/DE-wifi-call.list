@@ -1,0 +1,8 @@
+
+#O2 DE
+IP-CIDR,62.52.0.0/14,no-resolve
+IP-CIDR,213.20.0.0/16,no-resolve
+
+#沃达丰
+IP-CIDR,139.7.0.0/16,no-resolve
+
