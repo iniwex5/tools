@@ -1,5 +1,4 @@
 # 地区检测
-DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
 DOMAIN-KEYWORD, mcc234
 # 沃达丰
 DOMAIN-SUFFIX, entsrv-uk.vodafone.com
